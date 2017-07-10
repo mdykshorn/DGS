@@ -7,8 +7,8 @@
 - Each client has the ability to operate as a game master, with additional clients joining the game which supports up to 4 simultaneous players
 
 
-![Client GUI](screenshots/multi_client.jpg?raw=true "Client GUI")
-![Server GUI](screenshots/server_gui.jpg?raw=true "Client GUI")
+![Client GUI](https://github.com/mdykshorn/DGS/blob/master/screenshots/multi_client.JPG "Client GUI")
+![Server GUI](https://github.com/mdykshorn/DGS/blob/master/screenshots/server_gui.JPG "Client GUI")
 
 ### Core Technical Concepts
 
